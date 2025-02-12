@@ -1,4 +1,4 @@
-# data-science-literacy-rate-age-groups
+# data-science-education-level-distribution
 
 # Project Overview
 This project analyzes the distribution of the highest level of education attained across different states, rural and urban areas, and gender groups. It includes data preprocessing, summary statistics, trend analysis, visualizations, and regional disparity analysis.
